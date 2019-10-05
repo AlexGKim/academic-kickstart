@@ -15,7 +15,7 @@ role: Staff Scientist
 # Organizations/Affiliations
 organizations:
 - name: Lawrence Berkeley National Laboratory
-  url: "physics.lbl.gov"
+  url: "https://commons.lbl.gov/display/physics/Physics+Division+Home"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cosmology, astronomical transients, and statistics.
