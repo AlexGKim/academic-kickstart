@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alex Kim
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Staff Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Lawrence Berkeley National Laboratory
+  url: "physics.lbl.gov"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cosmology, astronomical transients, and statistics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Type Ia Supernova Cosmology
+- Peculiar velocities
+- Model inference
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: University of California, Berkeley
+    year: 1996
+  - course: MA in Physics, MA in Mathematics
+    institution: University of Michigan, Ann Arbor
+    year: 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Alex Kim is a scientist in the Physics Division at Lawrence Berkeley National Laboratory. His research interests include cosmology, astronomical transients, and statistics. He is a involved in a number of experiments, including DESI and LSST-DESC.
+ 
