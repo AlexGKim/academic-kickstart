@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Alex Kim is a scientist in the Physics Division at Lawrence Berkeley National Laboratory. His research interests include cosmology, astronomical transients, and statistics. He is a involved in a number of experiments, including the [Dark Energy Spectroscopic Instrument](https://www.desi.lbl.gov/) and the [LSST Dark Energy Science Collaboration](https://lsstdesc.org/).
+Alex Kim is a scientist in the Physics Division at Lawrence Berkeley National Laboratory. His research interests include cosmology, astronomical transients, and statistics. He is engagedin a number of experiments, including the [Dark Energy Spectroscopic Instrument](https://www.desi.lbl.gov/) and the [LSST Dark Energy Science Collaboration](https://lsstdesc.org/).
  
