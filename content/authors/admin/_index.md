@@ -30,7 +30,7 @@ education:
   - course: PhD in Physics
     institution: University of California, Berkeley
     year: 1996
-  - course: MA in Physics, MA in Mathematics
+  - course: BS in Physics, BS in Mathematics
     institution: University of Michigan, Ann Arbor
     year: 1991
 
