@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "doi:10.1086/133709"
+url_pdf = "https://iopscience.iop.org/article/10.1086/133709/pdf"
 url_preprint = "https://arxiv.org/pdf/astro-ph/9505024.pdf"
 url_code = ""
 url_dataset = ""
