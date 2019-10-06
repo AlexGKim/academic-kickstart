@@ -29,8 +29,8 @@ abstract_short = ""
 # Featured image thumbnail (optional)
 image_preview = ""
 
-# Is this a selected publication? (true/false)
-selected = true
+# Is this a featured publication? (true/false)
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
