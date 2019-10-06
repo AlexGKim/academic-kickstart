@@ -39,8 +39,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "10.1086/133709"
-url_preprint = "arXiv:astro-ph/9505024"
+url_pdf = "doi:10.1086/133709"
+url_preprint = "https://arxiv.org/pdf/astro-ph/9505024.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
