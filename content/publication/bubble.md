@@ -2,7 +2,7 @@
 title = "Implications for the Hubble Constant from the First Seven Supernovae at z >= 0.35"
 
 # Date first published.
-date = "1996-02"
+date = "1997-02-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alex Kim", "et. al."]
