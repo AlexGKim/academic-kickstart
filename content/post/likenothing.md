@@ -22,7 +22,7 @@ Regular matter makes up part of the energy seen by Planck (though most of the en
 Dark Matter).  So the statistical properties of the distribution of galaxies are expected to be directly related those
 of the energy fluecations.
 
-{{< figure library="true" src="sdss2_pie2.jpg" title="Image: Sloan Digital Sky Survey" lightbox="true" >}}
+{{< figure library="true" src="sdss_pie2.jpg" title="Image: Sloan Digital Sky Survey" lightbox="true" >}}
 
 
 In a nutshell, given the statistcal properties of the temperature variations seen by Planck and a theory of
