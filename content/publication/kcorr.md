@@ -1,5 +1,5 @@
 +++
-title = "A Generalized K Correction for Type IA Supernovae: Comparing R-band Photometry beyond z=0.2 with B, V, and R-band Nearby Photometry"
+title = "A Generalized K Correction for Type IA Supernovae: Comparing R-band Photometry beyond $z=0.2$ with $B$, $V$, and $R$-band Nearby Photometry"
 
 # Date first published.
 date = "2013-07-01"
@@ -23,8 +23,8 @@ publication = "In *Publications of the Astronomical Society of the Pacific*. You
 publication_short = "In *PASP*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = "Photometric measurements show that, as a group, nearby Type Ia supernovae follow similar light curves and reach similar peak magnitudes (Branch & Tammann 1992). Thus, these supernovae may serve as standard candles or calibrated candles at cosmological distances. Magnitudes of local and distant supernovae, both in the same filter band, are compared using a K correction to account for the different spectral regions incident on that filter. A generalized approach compares magnitudes in different bands for the nearby and distant supernovae, bands that are selected to give sensitivity in corresponding regions of the unredshifted and redshifted spectra. Thus, $R$ magnitudes for supernovae at $z \sim 0.5$ are compared with $B$ magnitudes of local supernovae. We compute these generalized K corrections over a range of redshifts and bandpass pairs and discuss their advantages over the traditional single-band K correction. In particular, errors near maximum light can be kept below 0.05 mag out to at least $z = 0.6$, whereas the traditional K correction is less accurate and can be difficult to determine beyond $z > 0.2$."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,9 +39,9 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "10.1086/133709"
 url_preprint = "arXiv:astro-ph/9505024"
-url_code = "10.1086/133709"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
