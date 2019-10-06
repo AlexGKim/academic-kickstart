@@ -37,7 +37,7 @@ gravity, we can predict the statistical properties of galaxues.
 To calculate the likelihood, we need to determine the probability of there being galaxies at some finite
 number of positions while there not being any galaxies at the complementary infinite  set of positions.
 
-$$P(\text{number of galaxies at a finite set of coordinates}) = \frac{P(\text{number of galaxies at a finite set of coordinates}) }{P(\text{zero galaxies})} P(\text{zero galaxies})$$
+$$P(\text{number of galaxies at the finite set of coordinates}) = \frac{P(\text{number of galaxies at the finite set of coordinates}) }{P(\text{zero galaxies at the finite set of coordinates})} P(\text{zero galaxies})$$
 
 
 
