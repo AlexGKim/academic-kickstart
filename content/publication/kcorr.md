@@ -67,5 +67,10 @@ caption = "My caption 😄"
 
 +++
 
-Test
+When comparing the broad-band fluxes of low- and high-redshift objects, we have to account for the fact that observed filters are sensitive to different wavelength regions of the rest-frame emission.  If the redshift difference is large enough, it makes more sense to compare the blue-filter flux of a low-redshift object with the red-filter flux of a high-redshift object, then one also has to account for the different calubrations of the two filters.
+
+# Fun facts
+
+1. Every year for three years after the discovery of the expansion history of the universe, Peter Nugent and I would question whether our K-correction calculation was correct.  The subtlety is that CCD's are photon counters not bolometers, and the ratio of high- to low-redshift photon fluxes is higher than it is for energy fluxes.  This kind of error could make the Unvierse larger that it really is, the signature of an accelerating Universe!  After a week, we would come to the conclusion that we had calculated the K-corrections correctly.  Much later I told Peter that although I frequently questioned our results, I drew some confidence from the fact that the Hi-Z team also measured an accelerating Universe.  Peter says "I gave them and they used our K-corrections."  I guess we didn't independently discover dark energy.
+2. After submitting the article, I get an e-mail from Brian Schmidt that the referee asked him to check my calculations but that he was unable to replicate them.  Brian sends me his filter transmission fucntions and in one the transmission efficiency at the central wavelength is set to zero.  Inconsistency resolved.  In Stockholm Brian confirms that he indeed was the referee.
 
