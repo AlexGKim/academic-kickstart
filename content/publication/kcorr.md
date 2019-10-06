@@ -19,7 +19,7 @@ authors = ["Alex Kim", "Ariel Goobar", "Saul Perlmutter"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Publications of the Astronomical Society of the Pacific, 108:190,1996*. You may use *Markdown* for italics etc."
+publication = "In *Publications of the Astronomical Society of the Pacific, 108:190,1996*"
 publication_short = "*PASP,108:190,1996*"
 
 # Abstract and optional shortened version.

@@ -5,7 +5,7 @@ title = "Implications for the Hubble Constant from the First Seven Supernovae at
 date = "1997-02-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alex Kim", "et. al."]
+authors = ["Alex Kim", "S. Gabi", "G. Goldhaber", "D. E. Groom", "I. M. Hook", "M. Y. Kim", "J. C. Lee", "C. R. Pennypacker", "S. Perlmutter", "I. A. Small", "A. Goobar", "R. Pain", "R. S. Ellis", "R. G. McMahon", "B. J. Boyle", "P. S. Bunclark", "D. Carter", "M. J. Irwin", "K. Glazebrook", "H. J. M. Newberg", "A. V. Filippenko", "T. Matheson", "M. Dopita", "W. J. Couch"]
 
 # Publication type.
 # Legend:
