@@ -32,6 +32,11 @@ The simplest "statistical properties" that are onsidered are the amplitude of th
 the sizes of the fluctuotions. In picture made by Planck, these correspond to the range
 of  temperatures between the blue and red blobs, and the sizes of the blobs. 
 
+To calculate the likelihood, we need to determine the probability of there being galaxies at some finite
+number of positions while there not being any galaxies at the complementary infinite  set of positions.
+
+$$P(\text{galaxy coordinates)) = \frac{P(\text{galaxy coordinates)) }{P(\text{zero galaxies})} P(\text{zero galaxies})$$
+
 
 
 $$e^{-N}$$
