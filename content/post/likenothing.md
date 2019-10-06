@@ -22,11 +22,14 @@ Regular matter makes up part of the energy seen by Planck (though most of the en
 Dark Matter).  So the statistical properties of the distribution of galaxies are expected to be directly related those
 of the energy fluecations.
 
+{{< figure library="true" src="sdss2_pie2.jpg" title="Image: Sloan Digital Sky Survey" lightbox="true" >}}
+
+
 In a nutshell, given the statistcal properties of the temperature variations seen by Planck and a theory of
 gravity, we can predict the statistical properties of galaxues.
 
-The simplest ``statistical properties'' that can be considered are the strength of the flutuations and
-the typical size of the fluctuotions. For example in picture made by Planck, these correspond to the range
+The simplest "statistical properties" that are onsidered are the amplitude of the flutuations and
+the sizes of the fluctuotions. In picture made by Planck, these correspond to the range
 of  temperatures between the blue and red blobs, and the sizes of the blobs. 
 
 
