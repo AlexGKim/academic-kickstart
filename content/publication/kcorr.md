@@ -19,7 +19,7 @@ authors = ["Alex Kim", "Ariel Goobar", "Saul Perlmutter"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Publications of the Astronomical Society of the Pacific*. You may use *Markdown* for italics etc."
+publication = "In *Publications of the Astronomical Society of the Pacific, 108:190,1996*. You may use *Markdown* for italics etc."
 publication_short = "*PASP,108:190,1996*"
 
 # Abstract and optional shortened version.
@@ -66,6 +66,7 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
 +++
+### What its about
 
 When comparing the broad-band fluxes of low- and high-redshift objects, we have to account for the fact that observed filters are sensitive to different wavelength regions of the rest-frame emission.  If the redshift difference is large enough, it makes more sense to compare the blue-filter flux of a low-redshift object with the red-filter flux of a high-redshift object, then one also has to account for the different calubrations of the two filters.
 

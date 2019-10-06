@@ -19,7 +19,7 @@ authors = ["Alex Kim", "et. al."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Astrophysical Journal*"
+publication = "In *Astrophysical Journal, 476:L63,1997*"
 publication_short = "*Astrophys.J.476:L63,1997*"
 
 # Abstract and optional shortened version.
@@ -66,6 +66,7 @@ image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
 +++
+### What its about
 
 Back in the day there was a conundrum, the predicted age of the Universe based on the measured Hubble constant was younger than the oldest objects inside the Universe.  One way to resolve the problem is for us to live in a part of the Universe that is less dense than average such that the galaxies used for the Hubble constant measurement are moving away from us a bit more than the overall average rate of expansion.
 
