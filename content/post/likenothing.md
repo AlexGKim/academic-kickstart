@@ -12,8 +12,8 @@ The temperature variation seen in the picture arises because of the variation of
 amount of energy in that slice.
 
 The simplest "statistical properties" that are onsidered are the amplitude of the flutuations and
-the sizes of the fluctuotions. In picture made by Planck, these correspond to the range
-of  temperatures between the blue and red blobs, and the sizes of the blobs. 
+the sizes of the fluctuotions. In the above picture from Planck, these correspond to the range
+of  temperatures spanned by the blue and red blobs, and the sizes of the blobs. 
 
 
 Since 13.77 billion years ago and today the energy variations seen in that picture have moved around
