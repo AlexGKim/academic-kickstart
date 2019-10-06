@@ -11,6 +11,11 @@ around 13.77 billion years ago.
 The temperature variation seen in the picture arises because of the variation of the
 amount of energy in that slice.
 
+The simplest "statistical properties" that are onsidered are the amplitude of the flutuations and
+the sizes of the fluctuotions. In picture made by Planck, these correspond to the range
+of  temperatures between the blue and red blobs, and the sizes of the blobs. 
+
+
 Since 13.77 billion years ago and today the energy variations seen in that picture have moved around
 due to the force of gravity.  Using General Relativity (the model of gravity that seems to work given
 all experimental evidence) or any other theory of gravity, we can calculate (with some uncertainty) how those energy fluctuations
@@ -28,9 +33,6 @@ of the energy fluecations.
 In a nutshell, given the statistcal properties of the temperature variations seen by Planck and a theory of
 gravity, we can predict the statistical properties of galaxues.
 
-The simplest "statistical properties" that are onsidered are the amplitude of the flutuations and
-the sizes of the fluctuotions. In picture made by Planck, these correspond to the range
-of  temperatures between the blue and red blobs, and the sizes of the blobs. 
 
 To calculate the likelihood, we need to determine the probability of there being galaxies at some finite
 number of positions while there not being any galaxies at the complementary infinite  set of positions.
