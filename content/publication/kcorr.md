@@ -2,7 +2,7 @@
 title = "A Generalized K Correction for Type IA Supernovae: Comparing R-band Photometry beyond z=0.2 with B, V, and R-band Nearby Photometry"
 
 # Date first published.
-date = "2013-07-01"
+date = "1996-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Alex Kim", "Ariel Goobar", "Saul Perlmutter"]
