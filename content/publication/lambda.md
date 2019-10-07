@@ -68,7 +68,7 @@ caption = "My caption 😄"
 +++
 ### What its about
 
-The Universe appears to have an non-zero cosmological constant $\Omega_\Lmmbda \ne 0$.
+The Universe appears to have an non-zero cosmological constant $\Omega_\Lambda \ne 0$.
 
 ### Fun facts
 
