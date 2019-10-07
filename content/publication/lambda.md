@@ -19,7 +19,7 @@ authors = ["S. Perlmutter", "G. Aldering", "G. Goldhaber", "R.A. Knop", "P. Nuge
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Astrophysical Journal, 517:565–586, 1999 *"
+publication = "In *The Astrophysical Journal, 517:565–586, 1999*"
 publication_short = "*ApJ.517:565–586, 1999*"
 
 # Abstract and optional shortened version.
