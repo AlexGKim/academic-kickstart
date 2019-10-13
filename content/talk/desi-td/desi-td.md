@@ -38,8 +38,8 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+  url: https://twitter.com/alexgykim
+url_code: "https://www.alexgkim.com/files/talks/desi/SkyPortalDemo.ipynb"
 url_pdf: ""
 url_slides: "https://www.alexgkim.com/files/talks/desi/2019SkyPortal.key"
 url_video: ""
@@ -63,5 +63,5 @@ slides: ""
 math: true
 ---
 
-The [Jupyter notebook](https://www.alexgkim.com/talks/desi/SkyPortalDemo.ipynb) used in the demo.
+The [Jupyter notebook](https://www.alexgkim.com/files/talks/desi/SkyPortalDemo.ipynb) used in the demo.
 
