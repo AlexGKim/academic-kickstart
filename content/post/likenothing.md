@@ -1,7 +1,7 @@
 ---
 title: "Likelihood of a Galaxy Survey"
 date: 2019-10-05T12:02:59-07:00
-draft: false
+draft: true
 ---
 
 The positions of galaxies can tell us a lot about the Universe and gravity.
@@ -29,16 +29,9 @@ of the energy fluecations.
 
 {{< figure library="true" src="sdss_pie2.jpg" title="Image: Sloan Digital Sky Survey" lightbox="true" >}}
 
+On average, distances between galaxies is uniformly increasing with time.  It is convenient to think of the change in distance as a function of time as a velocity, so that galaxies are moving away from each other.  This average motion is the cosmological expansion that is locally well described by the Hubble relation.
+
+This motion due also due to the force of gravity.  The average expansion of the Universe is explained by solving General Relativity inputting the spatial average of the energy constituants.
 
 In a nutshell, given the statistcal properties of the temperature variations seen by Planck and a theory of
 gravity, we can predict the statistical properties of galaxues.
-
-
-To calculate the likelihood, we need to determine the probability of there being galaxies at some finite
-number of positions while there not being any galaxies at the complementary infinite  set of positions.
-
-$$P(\text{number of galaxies at the finite set of coordinates}) = \frac{P(\text{number of galaxies at the finite set of coordinates}) }{P(\text{zero galaxies at the finite set of coordinates})} P(\text{zero galaxies})$$
-
-
-
-$$e^{-N}$$
