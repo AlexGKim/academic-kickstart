@@ -1,6 +1,6 @@
 ---
 title: Time Domain Cosmology 
-# event: DESI Time Domain Workshop
+event: Seminar
 # event_url: https://desitimedomain.wordpress.com/
 
 location: KASI
@@ -11,7 +11,7 @@ address:
   postcode: '34055'
   country: Republic of Korea
 
-summary: KASI Seminar
+summary: What I am doing that may be interesting to KASI colleagues.
 abstract: "The upcoming Dark Energy Spectroscopic Instrument (DESI) and Large Synoptic Survey Telescope (LSST) will provide data for large numbers of galaxies and transients, enabling precision statistical measures of the distribution and motion of galaxies, and in the discovery of rare events.  The enabled science include the measurement of the properties of the Dark Energy responsible for the accelerated expansion of the Universe using the Type Ia supernova Hubble Diagram, measurement of the Hubble constant through time delays of strongly lensed supernovae, tests of gravity from peculiar velocities of supernovae and early-type galaxies, and the discovery of tidal disruption events and other transients within galaxy cores.  Preparations for these upcoming data have uncovered interesting statistical and analysis challenges.in fitting models with +1000 parameters, the analysis of incomplete samples, building empirical models, and using Machine Learning in rigorous statistical analysis.  I will give a brief introduction to several of these topics with the objective of sparking deeper discussions and collaboration."
 
 # Talk start and end times.
@@ -38,9 +38,9 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/alexgykim
-url_code: "https://www.alexgkim.com/files/talks/desi/SkyPortalDemo.ipynb"
+url_code: ""
 url_pdf: ""
-url_slides: "https://www.alexgkim.com/files/talks/desi/2019SkyPortal.key"
+url_slides: "https://www.alexgkim.com/files/talks/seminars/2019-KASI.key"
 url_video: ""
 
 # Markdown Slides (optional).
