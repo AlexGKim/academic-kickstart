@@ -1,5 +1,5 @@
 +++
-title: "Complementarity of Peculiar Velocity Surveys and Redshift Space Distortions for Testing Gravity"
+title= "Complementarity of Peculiar Velocity Surveys and Redshift Space Distortions for Testing Gravity"
 date: 2020-04-08T14:41:16-07:00
 
 # Date first published.
