@@ -39,7 +39,7 @@ featured = true
 projects = []
 
 # Links (optional).
-url_pdf = " 10.1103/PhysRevD.101.023516"
+url_pdf = "https://doi.org/10.1103/PhysRevD.101.023516"
 url_preprint = "https://arxiv.org/pdf/1911.09121.pdf"
 url_code = ""
 url_dataset = ""
