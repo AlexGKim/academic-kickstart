@@ -7,8 +7,8 @@ event: LBNL Physics Division RPM
 
 location: Virtual
 
-summary: Opportunities for Peculiar Velocity Surveys Using DESI, ZTF-II, and the Vera C. Rubin Observatory
-abstract: "The motions of galaxies on top of the Hubble expansion, peculiar velocities, are a probe of clustering and the growth of structure in the Universe.  For distance indicators, peculiar velocities manifest themselves as residuals on the Hubble diagram.  Ongoing and upcoming wide-field surveys measuring unprecedented numbers of distance indicators, together with improvements in the calibration of Type Ia supernova brightnesses, will provide exquisite precision in the mapping of the peculiar velocity field or more precisely the peculiar distance field.  LBL is well positioned to make distance measurements of sources from DESI, the Zwicky Transient Facility (ZTF), ZTF-II, and the Rubin Observatory in order to produce compelling constraints on the laws of gravity responsible for the growth of structure."
+summary: "Opportunities for Peculiar Velocity Surveys Using DESI, ZTF-II, and the Vera C. Rubin Observatory"
+abstract: "The motions of galaxies on top of the Hubble expansion, peculiar velocities, are a probe of clustering and the growth of structure in the Universe.  For distance indicators, peculiar velocities manifest themselves as residuals on the Hubble diagram.  Ongoing and upcoming wide-field surveys measuring unprecedented numbers of distance indicators, together with improvements in the calibration of Type Ia supernova brightnesses, will provide exquisite precision in the mapping of the peculiar velocity field or more precisely the peculiar distance field.  LBL is well positioned to make distance measurements of sources from DESI, the Zwicky Transient Facility (ZTF, ZTF-II, and the Rubin Observatory in order to produce compelling constraints on the laws of gravity responsible for the growth of structure."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
