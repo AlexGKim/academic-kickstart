@@ -1,6 +1,6 @@
 ---
 title: "Opportunities for Peculiar Velocity Surveys Using DESI, ZTF-II, and the Vera C. Rubin Observatory"
-date: "2020-05-21T16:00"
+# date: "2020-05-21T16:00"
 draft: false
 
 event: LBNL Physics Division RPM
@@ -12,7 +12,7 @@ abstract: "The motions of galaxies on top of the Hubble expansion, peculiar velo
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2019-10-25T13:30"
+date: "2020-05-21T16:00"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
