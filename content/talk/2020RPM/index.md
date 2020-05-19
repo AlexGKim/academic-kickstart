@@ -1,6 +1,6 @@
 ---
 title: "Opportunities for Peculiar Velocity Surveys Using DESI, ZTF-II, and the Vera C. Rubin Observatory"
-date: 2020-04-09
+date: 2020-05-21
 draft: false
 
 event: LBNL Physics Division RPM
