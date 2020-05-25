@@ -1,6 +1,6 @@
 ---
 title: "Opportunities for Peculiar Velocity Surveys Using DESI, ZTF-II, and the Vera C. Rubin Observatory"
-date: 2020-05-19
+date: 2020-05-21
 draft: false
 
 event: LBNL Physics Division RPM
@@ -35,8 +35,8 @@ links:
   name: Follow
   url: https://twitter.com/alexgykim
 url_code: ""
-#url_pdf: "https://www.alexgkim.com/files/talks/seminars/2020 LDRD.pdf"
-url_slides: "https://www.alexgkim.com/files/talks/seminars/2020 RPM.key"
+#url_pdf: "https://www.alexgkim.com/files/talks/seminars/2020 RPM.pdf"
+#url_slides: "https://www.alexgkim.com/files/talks/seminars/2020 RPM.key"
 url_video: ""
 
 # Markdown Slides (optional).
