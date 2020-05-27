@@ -35,7 +35,7 @@ links:
   name: Follow
   url: https://twitter.com/alexgykim
 url_code: ""
-#url_pdf: "https://www.alexgkim.com/files/talks/seminars/2020 RPM.pdf"
+url_pdf: "https://www.alexgkim.com/files/talks/seminars/2020 RPM.pdf"
 #url_slides: "https://www.alexgkim.com/files/talks/seminars/2020 RPM.key"
 url_video: ""
 
