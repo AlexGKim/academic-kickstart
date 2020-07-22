@@ -34,7 +34,7 @@ links:
   name: Follow
   url: https://twitter.com/alexgykim
 url_code: ""
-url_pdf: "https://www.alexgkim.com/files/talks/seminars/API-IDEA.pdf"
+url_pdf: "https://www.alexgkim.com/files/talks/seminars/APS-IDEA.pdf"
 # url_slides: "https://www.alexgkim.com/files/talks/seminars/SampleSelection.key"
 url_video: ""
 
