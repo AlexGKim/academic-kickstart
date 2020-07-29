@@ -33,8 +33,7 @@ This article presents  toy examples where the distance modulus is inferred given
 Parameter estimators and their uncertainties are calculated using Monte Carlo techniques.
 The relationship between the number of Monte Carlo realizations and numerical errors is presented.
 The procedure can be applied to more realistic models and used to determine the computational and data management
-requirements of  the  transient analysis pipeline.
-"
+requirements of  the  transient analysis pipeline."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
