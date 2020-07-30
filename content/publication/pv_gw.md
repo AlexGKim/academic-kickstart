@@ -5,7 +5,7 @@ title = "Probing gravity and growth of structure with gravitational waves and ga
 date = "2020-05-9"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Antonella Palmese, Alex Kim"]
+authors = ["Antonella Palmese", "Alex Kim"]
 
 # Publication type.
 # Legend:
