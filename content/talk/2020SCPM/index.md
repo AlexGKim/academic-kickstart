@@ -1,13 +1,13 @@
 ---
 title: "Snowmass CPM Presentations"
-date: 2020-10-6
+date: 2020-10-06
 draft: false
 
 event: Snowmass Community Planning Meeting
 
 location: Virtual
 
-summary: Snowmass CPM Presentations
+summary: Snowmass CPM Presentations at Sessions 146 and 144
 
 
 # Talk start and end times.
