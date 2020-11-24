@@ -1,6 +1,6 @@
 ---
 title: "Outlier Detection in DESI"
-date: 2020-11-19T
+date: 2020-11-19
 draft: false
 
 event: LBL HEP ML Seminar
