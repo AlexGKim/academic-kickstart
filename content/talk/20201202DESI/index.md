@@ -1,6 +1,6 @@
 ---
 title: ""
-date: 2020-1
+date: 2020-12-02
 draft: false
 
 event: DESI Time Domain VC
