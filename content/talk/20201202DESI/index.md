@@ -8,8 +8,7 @@ event: DESI Time Domain VC
 location: Virtual
 
 summary: DESI Spectral Subtraction Transient Search
-abstract: Transients traditionally identified by looking for differences between images taken at different times.
-DESI can identify transients by looking for differences between spectra
+abstract: "Transients traditionally identified by looking for differences between images taken at different times.  DESI can identify transients by looking for differences between spectra."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
