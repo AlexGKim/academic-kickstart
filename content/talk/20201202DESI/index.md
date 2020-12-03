@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "DESI Spectral Subtraction Transient Search"
 date: 2020-12-02
 draft: false
 
@@ -7,7 +7,7 @@ event: DESI Time Domain VC
 
 location: Virtual
 
-summary: DESI Spectral Subtraction Transient Search
+summary: First results from DESI spectral subtractions
 abstract: "Transients traditionally identified by looking for differences between images taken at different times.  DESI can identify transients by looking for differences between spectra."
 
 # Talk start and end times.
