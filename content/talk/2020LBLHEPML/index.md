@@ -35,7 +35,7 @@ links:
   name: Follow
   url: https://twitter.com/alexgykim
 url_code: ""
-url_pdf: "https://www.alexgkim.com/files/talks/seminars/2020DESL-ML.pdf"
+url_pdf: "https://www.alexgkim.com/files/talks/seminars/2020DESI-ML.pdf"
 url_slides: "https://www.alexgkim.com/files/talks/seminars/2020DESI-ML.key"
 url_video: ""
 
